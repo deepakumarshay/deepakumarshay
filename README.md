@@ -1,71 +1,61 @@
-<!-- FINAL GitHub Profile README - DeepakSan -->
-<h1 align="center">Hi 👋, I'm <b>Deepak San</b></h1>
-<h3 align="center"> Amity University Student | Data Analyst | Web Developer</h3>
+![Logo](cp.png)
+
+# Deepak Portfolio Showcase 💻
+
+Welcome to **Deepak’s Portfolio Showcase**!  
+A modern **portfolio website** designed to showcase my projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
+It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
 
 ---
 
-### 💫 About Me
-- 🎓 I'm a **Student** passionate about **Data Analytics & Web Development**.  
-- 💻 Skilled in **Python**, **JavaScript**, and **React.js**.  
-- 🌱 Currently learning **Pandas**, **NumPy**, **Matplotlib**, and **React Hooks**.  
-- ⚡ I love turning data into insights and ideas into web experiences.  
+## 🔗 Live Demo
 
-📫 **Reach me at:**  
-[✉️ deepakumarshay@gmail.com](mailto:deepakumarshay@gmail.com)  
-[🔗 LinkedIn](https://in.linkedin.com/in/deepakumarshay)
+You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.netlify.app/)
 
 ---
 
-### 🧰 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode" />
-</p>
+## 🌟 Website Sections
+
+- **Home:** Introduction with avatar, tagline, and call-to-action buttons  
+- **About:** My background, skills, tools, and experience cards  
+- **Projects:** Highlighting key projects with images, tech stack & links  
+- **Services:** Overview of what I offer with animated service cards  
+- **Contact:** Contact form with validation and direct links  
+- **Footer:** Quick navigation & social handles  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepakSan&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSan&theme=tokyonight" height="150" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakSan&layout=compact&theme=tokyonight" height="150" />
-</p>
+## ⚡ Features
+
+- Modern **dark theme** with blue highlights  
+- Smooth scroll navigation between sections  
+- Fully **responsive** layout (desktop → mobile)  
+- Hover animations and transitions for buttons & cards  
+- **AOS.js** animations for scroll effects  
+- Validated **Contact Form** with smooth feedback  
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeepakSan&theme=tokyonight&no-frame=true&margin-w=8" />
-</p>
+## 🛠 Technologies Used
+
+- **HTML5** → For clean structure and semantic markup  
+- **CSS3** → For layout, animations & responsive design  
+- **JavaScript (Vanilla JS)** → For interactivity and events  
+- **Font Awesome / Boxicons** → For icons  
+- **AOS.js** → For scroll animations and fade effects  
 
 ---
 
-### 🚀 Projects
-- 📊 **Data Dashboard** – Interactive visualizations (Python + Plotly)  
-- 💼 **Portfolio Website** – Built with React.js  
-- ⚙️ **Automation Scripts** – Python scripts for daily tasks  
+## 🧠 Future Enhancements
+
+- ✅ Add backend form submission (via Node.js / Firebase)  
+- ✅ Add dark & light mode toggle  
+- 🚀 Integrate project API for dynamic updates  
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/DeepakSan/DeepakSan/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## 🚀 How to Use / Customize
 
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.instagram.com/_msingh7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@realmannv"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="mailto:deepakumarshay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://in.linkedin.com/in/deepakumarshay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/DeepakSan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <sub>Made with ❤️ by <b>Deepak San</b> | </sub>
-</p>
-# DeepakSan
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/DeepakSan/portfolio3.git
